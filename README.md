@@ -121,4 +121,3 @@ For any inquiries or support, feel free to reach out:
 - **Email**: [Laith.alhomoud@aurak.ac.ae](mailto:Laith.alhomoud@aurak.ac.ae)  
 - **GitHub**: [LaithAlhomoud](https://github.com/LaithAlhomoud)  
 
-Thank you for choosing the **Banking System Dashboard**. May your experience be as smooth and calming as a tranquil morning.
